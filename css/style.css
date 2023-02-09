@@ -61,7 +61,6 @@ body {
   flex-direction: column;
   position: relative;
   padding-bottom: 10em;
-  grid-template-rows: auto 1fr auto;
 }
 
 /* footer */
@@ -308,7 +307,6 @@ h6 {
 
 .image {
   display: flex;
-  grid-template-columns: repeat(1, 1fr);
   padding: 0.5vw;
 }
 
